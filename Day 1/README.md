@@ -9,4 +9,4 @@ Exercise 3: [Input Function](https://github.com/snurliza/Udemy-100DaysOfPython/b
 
 Exercise 4: [Variables](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%201/Exercise%204%20-%20Variables.py)
 	
-Project	: [Band Name Generator](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%201/Project%20-%20Band%20Name%20Generator.py)
+Project: [Band Name Generator](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%201/Project%20-%20Band%20Name%20Generator.py)
