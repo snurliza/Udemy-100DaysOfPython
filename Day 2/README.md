@@ -7,5 +7,5 @@ Exercise 2: [BMI Calculator](https://github.com/snurliza/Udemy-100DaysOfPython/b
 
 Exercise 3: [Life in Weeks](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%201/Exercise%203%20-%20Input%20Function.py)
 
-Project: [Tip Calculator](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%201/Project%20-%20Band%20Name%20Generator.py)
+Project: [Tip Calculator](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%202/Project%20-%20Tip%20Calculator.py)
 
