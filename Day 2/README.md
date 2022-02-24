@@ -5,7 +5,7 @@ Exercise 1: [Data Types](https://github.com/snurliza/Udemy-100DaysOfPython/blob/
 
 Exercise 2: [BMI Calculator](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%202/Exercise%202%20-%20BMI%20Calculator.py)
 
-Exercise 3: [Life in Weeks](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%201/Exercise%203%20-%20Input%20Function.py)
+Exercise 3: [Life in Weeks](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%202/Exercise%203%20-%20Life%20in%20Weeks.py)
 
 Project: [Tip Calculator](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%202/Project%20-%20Tip%20Calculator.py)
 
