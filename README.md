@@ -6,3 +6,5 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 DAY 1: [Working with Variables in Python to Manage Data](https://github.com/snurliza/Udemy-100DaysOfPython/tree/main/Day%201)
 
 DAY 2: [Understanding Data Types and How to Manipulate Strings](https://github.com/snurliza/Udemy-100DaysOfPython/tree/main/Day%202)
+
+DAY 3: [Control Flow and Logical Operators]()
