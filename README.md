@@ -7,4 +7,4 @@ DAY 1: [Working with Variables in Python to Manage Data](https://github.com/snur
 
 DAY 2: [Understanding Data Types and How to Manipulate Strings](https://github.com/snurliza/Udemy-100DaysOfPython/tree/main/Day%202)
 
-DAY 3: [Control Flow and Logical Operators]()
+DAY 3: [Control Flow and Logical Operators](https://github.com/snurliza/Udemy-100DaysOfPython/tree/main/Day%203)
