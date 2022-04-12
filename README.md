@@ -9,4 +9,4 @@ DAY 2: [Understanding Data Types and How to Manipulate Strings](https://github.c
 
 DAY 3: [Control Flow and Logical Operators](https://github.com/snurliza/Udemy-100DaysOfPython/tree/main/Day%203)
 
-DAY 4: [Randomisation and Python Lists ]()
+DAY 4: [Randomisation and Python Lists ](https://github.com/snurliza/Udemy-100DaysOfPython/tree/main/Day%204)
