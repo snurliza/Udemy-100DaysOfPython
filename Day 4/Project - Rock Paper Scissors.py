@@ -54,5 +54,3 @@ else:
     print("You lose!")
   elif player == 2 and computer == 1:
     print("You win!")
-
-  
