@@ -1,4 +1,4 @@
-# Day 5: Randomisation and Python Lists
+# Day 5: Python Loops
 
 Exercise 1: [Average Height](https://github.com/snurliza/Udemy-100DaysOfPython/blob/main/Day%205/Exercise%201%20-%20Average%20Height.py)
 
